@@ -1,1 +1,1 @@
-const Circle=require(../lib/circle.js)
+import Circle from '../lib/circle.js';
