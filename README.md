@@ -1,6 +1,6 @@
 # Logo-Creator
 ## Generates a SVG file with a desired logo
-#Description
+# Description
 ## User Story
 
 AS a freelance web developer
