@@ -64,16 +64,15 @@ Video submission file:
 <img width="363" alt="Screenshot 2023-05-11 173129" src="https://github.com/Georgina5-2/Logo-Creator/assets/122113060/97672203-e54e-4fb7-b44b-28ae7f7bb6c4">
 
 # Acknowledgements
-
-<img width="822" alt="image" src="https://github.com/Georgina5-2/Logo-Creator/assets/122113060/1e6e3317-24f2-460d-b840-507d0da5baa0">
+https://stackoverflow.com/questions/42308879/how-to-solve-npm-error-npm-err-code-elifecycle
 
 https://stackoverflow.com/questions/50355263/local-package-json-exists-but-node-modules-missing
 
-ttps://stackoverflow.com/questions/50197798/npm-err-notsup-unsupported-platform-for-n2-1-8-wanted-oswin32-arch
+https://stackoverflow.com/questions/50197798/npm-err-notsup-unsupported-platform-for-n2-1-8-wanted-oswin32-arch
 
 # Link to the deployed code:
 
-https://github.com/Georgina5-2/Logo-Creator
+[https://github.com/Georgina5-2/Logo-Creator](https://georgina5-2.github.io/Logo-Creator/)
 
 
 
