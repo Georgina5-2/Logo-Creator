@@ -48,7 +48,8 @@ Video submission file:
 
 
 
-[Uploading Logo-Creator Video Submission.webm…]()
+[Logo-Creator Video Submission.webm](https://github.com/Georgina5-2/Logo-Creator/assets/122113060/134c7fe4-c065-479e-b18c-bbd47f7a217a)
+
 
 
 * Import the inquirer and jest packages as dependencies in package.json file
