@@ -48,7 +48,8 @@ Video submission file:
 
 
 
-https://github.com/Georgina5-2/Logo-Creator/assets/122113060/726301c7-efff-4d73-a326-4adbab35e321
+[Uploading Logo-Creator Video Submission.webm…]()
+
 
 * Import the inquirer and jest packages as dependencies in package.json file
 * Establish the parent-child relationships between the classes and render the image
