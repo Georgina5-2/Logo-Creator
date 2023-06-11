@@ -74,8 +74,11 @@ https://stackoverflow.com/questions/50197798/npm-err-notsup-unsupported-platform
 
 [https://github.com/Georgina5-2/Logo-Creator](https://georgina5-2.github.io/Logo-Creator/)
 
+# Acknowledgements
 
+https://www.npmjs.com/search?q=express.js
 
+# Link to the deployed code: 
 
 
 
